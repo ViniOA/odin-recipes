@@ -1,1 +1,1 @@
-# odin-recipes
+Neste projeto estarei criando um uma pagina web basica mediante a um site de receitas. Ademais, espero refletir sobre o que estou fazendo e verificar meus conhecimento ate aqui adquiridos em relacao ao meu progresso no The Odin Project.
