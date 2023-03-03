@@ -1,0 +1,31 @@
+* {margin: 0; padding: 0;}
+
+
+.bt-container {
+    text-align: center;
+    
+    }
+
+.bt {
+color: black;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+display: relative;
+align-items: center;
+justify-content: center;
+width: 100px;
+height: 100px;
+}
+
+.one {
+
+    float: left;
+    font-size: 300px;
+}
+
+
+.two {
+
+    float: right;
+    font-size: 300px;
+}
